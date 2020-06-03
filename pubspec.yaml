@@ -26,10 +26,11 @@ dependencies:
 
   #state managment
   stacked: ^1.5.5+1
-
+  stacked_hooks:
+  observable_ish:
   #navigation
   auto_route:
-  stacked_services:
+  stacked_services: 0.3.2+1
 
   #inversion of control
   get_it:

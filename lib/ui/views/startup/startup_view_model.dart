@@ -8,7 +8,7 @@ class StartupViewModel extends BaseViewModel {
 
   final NavigationService _navigationService = locator<NavigationService>();
 
-  String _title = "StartUp widget ";
+  String _title = "StartUp widget";
   String get title => this._title;
 
 

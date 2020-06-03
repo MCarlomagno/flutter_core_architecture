@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_core_architecture/app/locator.dart';
 import 'package:flutter_core_architecture/app/router.gr.dart';
-import 'package:flutter_core_architecture/ui/views/home/home_view.dart';
 import 'package:stacked_services/stacked_services.dart';
 
 void main() {

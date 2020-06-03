@@ -1,6 +1,10 @@
 # flutter_core_architecture
 
-A new Flutter project.
+Based on stacked architecture 
+https://pub.dev/packages/stacked#-installing-tab-
+
+To set up project run:
+flutter pub run build_runner build  
 
 ## Getting Started
 
